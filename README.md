@@ -1,5 +1,5 @@
-# Predictterrorsitgroup
-Predict terrorist group based on their previous data
+# Global_terrorism_database_analysis
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
